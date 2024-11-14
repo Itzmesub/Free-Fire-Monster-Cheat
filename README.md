@@ -1,3 +1,5 @@
+YOU SHOULD ADD PROPER GUIDE FOR NEWBIES
+
 # Monster Cheat
 
 Advanced Free Fire Cheat written in C#. To use it, you need to make some customizations in the code, please read the manual.
